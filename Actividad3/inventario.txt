@@ -1,0 +1,5 @@
+a,TOYOTA,azul,PriusC,350000,automatica,5,2
+a,VW,negro,Polo,255000,estandar,5,1
+c,VOLVO,blanco,FMX,280000,5,4,3
+c,MERCEDES BENZ,negro,Zetros,423000,3,2,2
+a,HYUNDAI,blanco,Grandi10,195000,automatica,4,1
